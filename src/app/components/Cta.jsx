@@ -19,6 +19,7 @@ function Cta() {
             <ArrowUpRight className="w-6 h-6" />
           </button>
         </div>
+
         <div className="relative">
           <Image
             src="/images/about-6.webp"
